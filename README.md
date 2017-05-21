@@ -1,7 +1,8 @@
 # 下载链接 [Download Links]
 
 > 提示：暂不支持直接在github打开，请下载后查看!<br>
-> Tips: browse pdf file directly on github not supported yet, here are download links!
+> Tips here: Direct browsing pdf file on github is not perfect supported yet in consequence of the file size. <br>
+> Please view the download links below:
 
 - [data_structure_arithmetic_JavaScript_desc.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-javascript/master/data_structure_arithmetic_JavaScript_desc.pdf)
 - [Functional JavaScript.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-javascript/master/Functional JavaScript.pdf)
@@ -16,3 +17,6 @@
 - [JavaScript语言精髓与编程实践.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-javascript/master/JavaScript语言精髓与编程实践.pdf)
 - [JavaScript面向对象编程指南.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-javascript/master/JavaScript面向对象编程指南.pdf)
 - [Learning JavaScript Design Patterns.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-javascript/master/Learning JavaScript Design Patterns.pdf)
+- [jQuery-1.9.1.chm](https://raw.githubusercontent.com/johnnynode/ebooks-javascript/master/jQuery-1.9.1.chm)
+- [jquery1.7_20111204中文API.chm](https://raw.githubusercontent.com/johnnynode/ebooks-javascript/master/jquery1.7_20111204中文API.chm)
+- [jquery基础.txt](https://raw.githubusercontent.com/johnnynode/ebooks-javascript/master/jquery基础.txt)
